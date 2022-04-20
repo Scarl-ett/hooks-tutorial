@@ -1,12 +1,11 @@
-// import Counter from './Counter';
+import Counter from './Counter';
 // import Info from './Info';
-
-import Average from "./Average";
+// import Average from "./Average";
 
 function App() {
-  // return <Counter />
+  return <Counter />
   // return <Info />
-  return <Average />
+  // return <Average />
 }
 
 export default App;
